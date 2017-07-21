@@ -1,3 +1,7 @@
+# 注意
+
+该仓库不再更新，并将于 2017年9月1日 移除，新项目地址：https://github.com/Foair/course-crawler
+
 # 中国大学 MOOC 爬虫
 
 一个中国大学 MOOC 的爬虫，可以爬取视频链接和文档。
